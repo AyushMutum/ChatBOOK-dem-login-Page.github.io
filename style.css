@@ -1,0 +1,87 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkolivegreen;
+}
+
+
+.heading{
+    color:black;
+    font-size: 60px;
+    border-radius: 12px;
+    border: 2px solid gray; 
+    padding: 20px 25px;
+    margin: 20px auto;
+    width: 350px;
+    text-align: center;
+}
+
+.card{
+    border: 2px solid gray;  
+    width: 500px;
+    padding: 8px;
+    margin: 10px auto ;
+    border-radius: 12px;
+    color:black;
+    text-align: center;
+}
+
+.button-1{
+    color: wheat;
+    background-color:black;
+    border: none;
+    padding: 10px 12px;
+    border-radius: 12px  ;
+    margin: 2px auto ;
+    /* text-align: center; */
+    
+}
+
+.card-image{
+    height: 100px;
+    /* width: 50%; */
+    border-radius: 50%;
+    text-align: left;
+    padding: 1px;
+    margin: 2px ;
+}
+.login-box{
+    /* border: 2px solid gray; */
+    width: 500px;
+    padding: 12px;
+    margin: 12px auto;
+    text-align: center;
+
+}
+
+
+.button-2{
+    color: wheat;
+    background-color:black;
+    border: none;
+    padding: 10px 12px;
+    border-radius: 12px  ;
+    margin: 2px auto ;
+    font-size: 16px;
+    
+}
+
+.button-3{
+    color: wheat;
+    background-color:black;
+    border: none;
+    padding: 10px 12px;
+    border-radius: 12px  ;
+    margin: 2px auto ;
+    font-size: 12px;
+}
+
+input{
+    border: 1px solid gray;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 12px;
+    box-sizing: border-box;
+    border-radius: 12px;
+    font-size: 18px;
+}
+
